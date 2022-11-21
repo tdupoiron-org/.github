@@ -1,0 +1,8 @@
+{
+    "name": "Calculator Workflow",
+    "description": "Workflow to make quick calculations",
+    "iconName": "math-pi",
+    "categories": [
+        "Maths"
+    ]
+}
